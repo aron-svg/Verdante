@@ -1,5 +1,6 @@
 
-# Verdante
+# Verdante    
+<img width="1024" height="1024" alt="logo-verdante" src="https://github.com/user-attachments/assets/1c007cb3-f919-442d-a977-93476da62e96" />
 
 
 
