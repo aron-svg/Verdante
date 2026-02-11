@@ -1,6 +1,7 @@
 
 # Verdante    
-<img width="1024" height="1024" alt="logo-verdante" src="https://github.com/user-attachments/assets/1c007cb3-f919-442d-a977-93476da62e96" />
+![verdante1770496423](https://github.com/user-attachments/assets/d250edf0-3e47-46ef-bdf5-fefa78d4b847)
+
 
 
 
