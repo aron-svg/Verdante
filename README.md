@@ -4,6 +4,7 @@
 
 
 ##🌍 Overview
+---
 Verdante is a carbon‑aware orchestration and simulation platform that helps teams run compute workloads in a greener, cheaper, and more compliant way. It analyzes global cloud regions, energy grids, and regulatory constraints to recommend the optimal execution strategy for any job.
 
 Training a single large AI model can emit 626,000+ lbs of CO₂ — equivalent to the lifetime emissions of five cars. Verdante makes sustainable compute accessible and actionable.
