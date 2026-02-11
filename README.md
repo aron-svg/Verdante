@@ -1,17 +1,17 @@
 
-#Verdante
----
+# Verdante
 
 
-##🌍 Overview
----
+
+## 🌍 Overview
+
 Verdante is a carbon‑aware orchestration and simulation platform that helps teams run compute workloads in a greener, cheaper, and more compliant way. It analyzes global cloud regions, energy grids, and regulatory constraints to recommend the optimal execution strategy for any job.
 
 Training a single large AI model can emit 626,000+ lbs of CO₂ — equivalent to the lifetime emissions of five cars. Verdante makes sustainable compute accessible and actionable.
 
 🔗 Live Demo: [https://verdente-upstart-2026.vercel.app](url)
 
-##✨ Features
+## ✨Features
 Carbon Intelligence
 -Real‑time grid carbon intensity
 -Forecasting for low‑carbon windows
@@ -45,7 +45,7 @@ Verdante acts like a map for cloud computing:
 -It recommends the optimal route
 -It simulates the run and generates audit‑ready reports
 
-#🏗️ Tech Stack
+# Tech Stack
 Layer	Technology
 Framework:	Next.js
 Language:	TypeScript
@@ -70,7 +70,7 @@ UI	React components
 - GET /api/hello
 - GET /api/db/ping
 
-#📁 Project Structure
+# Project Structure
 Code
 /public          → static assets
 /app or /pages   → routes & UI
@@ -78,19 +78,19 @@ Code
 /lib             → utilities & helpers
 /styles          → global styles
 
-#💸 Pricing Tiers
-##Free / Developer
+# Pricing Tiers
+## Free / Developer
 1 project, 5 jobs
 Basic presets
 JSON export
 
-##Team — $19/user/month
+## Team — $19/user/month
 Unlimited projects & jobs
 Full optimization weights
 Compliance templates
 PDF + JSON exports
 
-##Team workspace
+## Team workspace
 
 Pro / FinOps — Custom
 Provider/region modeling
@@ -99,7 +99,7 @@ Audit logs
 Integration hooks
 Multi‑project rollups
 
-#👥 Team
+# Team
 Built by a multidisciplinary team from McGill & Concordia:
 
 Aron Segovia — Computer Engineering @ McGill
@@ -108,7 +108,7 @@ Shrin Zoufan — PhD Civil Engineering @ Concordia
 
 
 
-#🤝 Contributing
+# Contributing
 Contributions are welcome!
 Open an issue or submit a PR — we’ll review quickly.
 
