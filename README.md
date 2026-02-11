@@ -15,42 +15,42 @@ Training a single large AI model can emit 626,000+ lbs of CO₂ — equivalent t
 
 ## ✨Features
 Carbon Intelligence
--Real‑time grid carbon intensity
--Forecasting for low‑carbon windows
--Automated load shifting
+- Real‑time grid carbon intensity
+- Forecasting for low‑carbon windows
+- Automated load shifting
 
 Optimization Engine
--Multi‑region workload routing
--Cost vs. carbon vs. performance tradeoff modeling
--Custom optimization weights (Team & Pro tiers)
+- Multi‑region workload routing
+- Cost vs. carbon vs. performance tradeoff modeling
+- Custom optimization weights (Team & Pro tiers)
 
 Compliance
--Canada/EU data‑residency templates
--Export‑ready sustainability reports
--Audit logs (Pro tier)
+- Canada/EU data‑residency templates
+- Export‑ready sustainability reports
+- Audit logs (Pro tier)
 
 Reporting
--CO₂ impact reports
--Cost simulations
--PDF + JSON exports
+- CO₂ impact reports
+- Cost simulations
+- PDF + JSON exports
 
 Automation
--Policy‑based workload routing
--Integration hooks (Pro tier)
--Multi‑project rollups
+- Policy‑based workload routing
+- Integration hooks (Pro tier)
+- Multi‑project rollups
 
 ## How It Works
 Verdante acts like a map for cloud computing:
 
--Define your workload + priorities
--Verdante analyzes global regions & energy grids
--It recommends the optimal route
--It simulates the run and generates audit‑ready reports
+- Define your workload + priorities
+- Verdante analyzes global regions & energy grids
+- It recommends the optimal route
+- It simulates the run and generates audit‑ready reports
 
 # Tech Stack
 Layer	Technology
-Framework:	Next.js
-Language:	TypeScript
+Framework: Next.js
+Language: TypeScript
 Hosting:	Vercel
 Data	Static simulation models (backend‑ready architecture)
 UI	React components
@@ -101,13 +101,18 @@ Audit logs
 Integration hooks
 Multi‑project rollups
 
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/2640ed03-ac46-4469-ab85-a7fc2896cad0" />
+
 # Team
 Built by a multidisciplinary team from McGill & Concordia:
 
 Aron Segovia — Computer Engineering @ McGill
+
 Robin Glaude — Software Engineering (MSc) + Management @ McGill
+
 Shrin Zoufan — PhD Civil Engineering @ Concordia
 
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/231f49e4-7528-46e9-a886-a945a39d65ff" />
 
 
 # Contributing
