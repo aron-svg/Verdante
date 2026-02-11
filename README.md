@@ -1,5 +1,5 @@
 
-# Verdante    <img width="100" height="100" alt="Copilot_20260207_210811" src="https://github.com/user-attachments/assets/f0fc1dc5-5138-4507-a25c-37a1b13a4425" />
+#  <img width="100" height="100" alt="Copilot_20260207_210811" src="https://github.com/user-attachments/assets/f0fc1dc5-5138-4507-a25c-37a1b13a4425" />
 
 
 
