@@ -1,5 +1,6 @@
 
 #Verdante
+
 Carbon‑Aware Cloud Orchestration & Sustainability Simulation Platform
 https://verdente-upstart-2026.vercel.app  
 https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white  
