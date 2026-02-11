@@ -1,12 +1,7 @@
 
 #Verdante
+---
 
-Carbon‑Aware Cloud Orchestration & Sustainability Simulation Platform
-https://verdente-upstart-2026.vercel.app  
-https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white  
-https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white  
-https://img.shields.io/badge/License-MIT-green.svg  
-https://img.shields.io/badge/Status-Active-success
 
 ##🌍 Overview
 Verdante is a carbon‑aware orchestration and simulation platform that helps teams run compute workloads in a greener, cheaper, and more compliant way. It analyzes global cloud regions, energy grids, and regulatory constraints to recommend the optimal execution strategy for any job.
